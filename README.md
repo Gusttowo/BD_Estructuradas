@@ -64,6 +64,8 @@ El sistema debe cumplir con los siguientes requerimientos:
 
 ## Modelo Entidad - Relación
 
+![Proyecto_Modelo E-R(Corregido)](https://github.com/user-attachments/assets/8e6bdf3e-e0f8-4731-aa60-e55fa30153ec)
+
 ### Contribuciones
 
 Este proyecto fue desarrollado como parte del curso de Bases de Datos Estructuradas en el primer semestre de 2023.
