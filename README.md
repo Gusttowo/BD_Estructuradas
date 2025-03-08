@@ -54,17 +54,19 @@ El sistema debe cumplir con los siguientes requerimientos:
 
 ## Instalación y Configuración
 
-Instalar SQL Server.
+1. Instalar SQL Server.
 
-Crear la base de datos ejecutando el script de estructura.
+2. Crear la base de datos ejecutando el script de estructura.
 
-Poblar las tablas con datos de prueba.
+3. Poblar las tablas con datos de prueba.
 
-Ejecutar los procedimientos almacenados y disparadores.
+4. Ejecutar los procedimientos almacenados y disparadores.
+
+## Modelo Entidad - Relación
 
 ### Contribuciones
 
 Este proyecto fue desarrollado como parte del curso de Bases de Datos Estructuradas en el primer semestre de 2023.
 
-Autores: Gustavo Velásquez Granado - Jesus David Mosquera
-Institución: Institución Universitaria de Envigado
+- Autores: **Gustavo Velásquez Granado - Jesus David Mosquera**
+- Institución: Institución Universitaria de Envigado
